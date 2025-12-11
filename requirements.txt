@@ -5,5 +5,5 @@ numpy
 pillow
 scikit-image
 monai
-matplotlibù
+matplotlib
 opencv-python-headless
